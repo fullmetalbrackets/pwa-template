@@ -1,0 +1,16 @@
+* {
+  background-color: aliceblue;
+  color: black;
+}
+
+div {
+  display: flex;
+  font-size: 2rem;
+  justify-content: center;
+  width: 100%;
+}
+
+marquee {
+  color: green;
+  font-size: 5rem;
+}
