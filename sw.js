@@ -1,7 +1,8 @@
 const staticSite = "website"
 const assets = [
-  "/",
-  "app.js",
+  "/index.html",
+  "/main.css",
+  "/app.js",
 ]
 
 self.addEventListener("install", installEvent => {
