@@ -6,7 +6,7 @@
 5. Get some icons for your PWA, place them somewhere in the project directory, and add them to your **manifest.json** ([This tool may help](https://www.pwabuilder.com))
 7. Bob's your uncle, check out the [demo](https://pwa-template.surge.sh) to see it in action
 
-**NOTE: Make sure your site uses HTTPS or it won't be installable as a PWA!** Free web hosts like Netlify, Vercel, Cloudflare Pages and Surge should let you deploy with HTTPS for free, with minimal or zero config.
+**NOTE: Make sure your site uses HTTPS or it won't be installable as a PWA!** Free web hosts like [Netlify](https://netlify.com), [Vercel](https://vercel.com), [Cloudflare Pages](https://pages.cloudflare.com) and [Surge](https://surge.sh) should let you deploy with HTTPS for free, with minimal or zero config.
 
 ## For iPhones
 Add the following to your **index.html** `<head>` as well for the PWA to work on iPhones!
