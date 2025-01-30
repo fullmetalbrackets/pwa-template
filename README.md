@@ -1,3 +1,5 @@
+See my blog post -- [Turn a static website into a progressive web app](https://fullmetalbrackets.com/blog/turn-static-website-into-pwa)
+
 ## Basic Instructions
 1. Click the **Use this template** button, or clone this repo, or download the files `manifest.json`, `app.js` and `sw.js`
 2. Make sure `manifest.json`, `app.js` and `sw.js` are in your project's root
